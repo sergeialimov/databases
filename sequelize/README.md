@@ -1,0 +1,2 @@
+# sequelize
+Ramp up sequelize
